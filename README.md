@@ -1,2 +1,3 @@
 # python-simple-browser
-Python simple browser with socket library
+Python simple browser with socket library.
+
